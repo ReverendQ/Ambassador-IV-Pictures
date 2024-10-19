@@ -1,0 +1,10 @@
+9990CHR01-20:
+- Initial read (marked (old)) may have had a bent pin that wasn't making proper contact, so I rescanned it
+9995AMD01-22:
+- Checksum was constantly changing, so I ended up copying it twice
+9996AMD01-22:
+- Seems to be completely blank
+9990PRT01B20:
+- Checksum was constantly changing
+9990KEY02B20:
+- Almost completely blank, with the exception of 16 bits spread throughout the chip
